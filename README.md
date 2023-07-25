@@ -1,1 +1,1 @@
-# Dino_Runner
+This is my 1-2 project with two teammates. It's a 2D game, where a dinosour is running in 2D plane and there are many obstacles and rewards to lose and earn. This game is made using C++ and SDL. No database application is used. Data is saved using file format. The project report is also given here.
